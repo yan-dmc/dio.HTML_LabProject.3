@@ -1,3 +1,12 @@
+✨ **Desafio da Plataforma DIO.me** ✨
+
+📌 **Ferramentas Utilizadas:**
+- 🌐 **HTML**
+- 🎨 **CSS**  
+
+https://yan-dmc.github.io/dio.HTML_LabProject.3/
+
+
 # Módulo 3 - Trilha HTML
 
 **Título:** Recriando Wikipedia, com um layout melhor :)
